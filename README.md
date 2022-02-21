@@ -269,7 +269,7 @@ Ubuntu:
 ### Step 4: Verifying R-Studio
 If you use GNOME, you should be able to hit the SUPER key *[Typically the Windows Key on Your Keyboard]* to go into your Activties tab. From there you should find the R-Studio Icon. Click it and the R-Studio applciation should open.
 
-Alternativly, you can run the rstudio command in the terminal to open R-Studio
+Alternatively, you can run the rstudio command in the terminal to open R-Studio
 ```{}
 rstudio
 ```
@@ -361,3 +361,11 @@ Now you should be all set up!
 ### Mac OSX Troubleshooting
   
 ### Linux Troubleshooting
+
+## Sources
+
+* [How to Install R on Windows, Mac OS X, and Ubuntu Tutorial](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) by Francisco Javier Carrera Arias
+  
+* [Introduction to Computational and Data Sciences](https://book.cds101.com/) by James K. Glasbrenner, Ajay Kulkarni, and Dominic White
+  
+* [[2021] How to install Git on Windows 10 (step by step guide)](https://medium.com/devops-with-valentine/2021-how-to-install-git-on-windows-10-step-by-step-guide-1c9db500e734) by Valentin Despa
