@@ -4,17 +4,12 @@ How to setup R and R Studio for CDS101 on Mac, Linux, and Windows
 ## Table of Contents
 
 i. [Setting Up R/R-Studio for Windows](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#setting-up-rr-studio-for-windows)
-  
+
 ii.[Setting Up R/R-Studio for Mac OSX](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#setting-up-rr-studio-for-mac-osx)
-  
+
 iii. [Setting Up R/R-Studio for Linux](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#setting-up-rr-studio-for-linux)
-  
-iv: [Troubleshooting](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#troubleshooting)
-* [Windows Troubleshooting](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#windows-troubleshooting)
-* [Mac OSX Troubleshooting](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#mac-osx-troubleshooting)
-* [Linux Troubleshooting](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#linux-troubleshooting)
-  
-v: [Sources](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#troubleshooting)
+
+iv: [Sources](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#troubleshooting)
 
 ## Setting Up R/R-Studio for Windows
 
@@ -52,8 +47,6 @@ ii. Proceed to separately install the packages listed below using the ```install
 * tidyverse
 
 iii. Once you have installed the packages, click on the packages tab on the bottom right pane to see that packages are there.
-
-**Note: If you do not find a package listed. Refer to the [Windows Troubleshooting](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#windows-troubleshooting) section.**
 
 ### Step 4: Setting up Git
 
@@ -165,8 +158,6 @@ ii. Proceed to separately install the packages listed below using the ```install
 * tidyverse
 
 iii. Once you have installed the packages, click on the packages tab on the bottom right pane to see that packages are there.
-
-***Note: If you do not find a package listed. Refer to the [Mac OSX Troubleshooting](https://github.com/jbond8/R-RStudio-CDS101/edit/main/README.md#mac-osx-troubleshooting) section.***
 
 ### Step 4: Setting up Git
 
@@ -293,8 +284,6 @@ ii. Proceed to separately install the packages listed below using the ```install
 
 iii. Once you have installed the packages, click on the packages tab on the bottom right pane to see that packages are there.
 
-      Note: If you do not find a package listed. Refer to the Troubleshooting section.
-
 ### Step 6: Setting up Git
 
 **ADAPTED FROM:** *Introduction to Computational and Data Sciences* by James K. Glasbrenner, Ajay Kulkarni, and Dominic White
@@ -353,14 +342,6 @@ Note that in the Console you can use Ctrl+v to paste instead of Ctrl+Shift+v (or
 You will be prompted to enter the token that you just created above on GitHub.com. You should copy-and-paste the token from where you saved it to prevent any spelling errors, and then press <Enter> again.
 
 Now you should be all set up!
-  
-## Troubleshooting
-
-### Windows Troubleshooting
-  
-### Mac OSX Troubleshooting
-  
-### Linux Troubleshooting
 
 ## Sources
 
